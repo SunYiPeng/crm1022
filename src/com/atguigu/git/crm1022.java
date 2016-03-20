@@ -2,6 +2,7 @@ package com.atguigu.git;
 
 public class crm1022 {
   
-  System.out.println("你好 elepis");
-
+	public static void main(String[] args) {
+			System.out.println("你好");
+	}
 }
